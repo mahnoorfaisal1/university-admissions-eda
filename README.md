@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project explores...
+This project performs Exploratory Data Analysis (EDA) on a synthetic university admissions dataset containing approximately 1 million student records. The objective was to explore the dataset, identify patterns associated with admission outcomes, and investigate relationships between various academic and application-related factors.
+
+Using Python, Pandas, NumPy, and Matplotlib, the analysis examines admission trends, compares characteristics of admitted and rejected students, and explores how factors such as AP course participation, GPA, and recommendation scores relate to student outcomes.
 
 ## Tools & Libraries
 
