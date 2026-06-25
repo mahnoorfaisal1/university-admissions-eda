@@ -1,45 +1,42 @@
-University Admissions EDA
-Overview
+# University Admissions EDA
 
-This project explores a university admissions dataset containing approximately 1 million student records through Exploratory Data Analysis (EDA). The goal was to identify patterns, trends, and relationships between various applicant characteristics and admission outcomes.
+## Overview
 
-The analysis was performed using Python and focused on understanding which factors were most strongly associated with admission decisions.
+This project explores...
 
-=== Tools & Libraries ===
-Python
-Pandas
-NumPy
-Matplotlib
-Dataset
+## Tools & Libraries
 
-This project uses a synthetic university admissions dataset containing approximately 1 million student records.
+- Python
+- Pandas
+- NumPy
+- Matplotlib
 
-Dataset Source:
+## Dataset
+
 [Gen Z College Admission Dataset](https://www.kaggle.com/datasets/sharmajicoder/genn-z-college-admission-dataset)
 
-=== Questions Explored ===
-1. Which factors are most associated with admission outcomes?
+## Questions Explored
 
-Analyzed and compared applicant characteristics between admitted and rejected students to identify important trends.
+### Which factors are most associated with admission outcomes?
 
-2. Do students with more AP courses have higher admission rates?
+Analyzed and compared...
 
-Calculated admission rates for students with different numbers of AP courses and analyzed how admission likelihood changes across groups.
+### Do students with more AP courses have higher admission rates?
 
-3. Do students with higher GPAs tend to have higher recommendation scores?
+Calculated admission rates...
 
-Grouped students by GPA ranges and compared average recommendation scores to investigate potential relationships.
+## Key Findings
 
-=== Key Findings ===
---> Several academic metrics showed positive relationships with admission outcomes.
---> Students with more AP courses generally had higher admission rates, with admission rates increasing from approximately 84.6% to 94.4% across AP course groups.
---> Recommendation scores remained relatively consistent across most GPA ranges.
---> A seemingly high recommendation score in the lowest GPA group was found to be unreliable due to the very small sample size (4 students), highlighting the importance of validating results during analysis.
-=== Skills Demonstrated ===
---> Data cleaning and exploration
---> Data filtering and grouping
---> Statistical analysis
---> Data visualization
---> Trend identification
---> Critical interpretation of results
---> Exploratory Data Analysis (EDA)
+- Several academic metrics showed positive relationships with admission outcomes.
+- Students with more AP courses generally had higher admission rates...
+- Recommendation scores remained relatively consistent across most GPA ranges.
+
+## Skills Demonstrated
+
+- Data cleaning and exploration
+- Data filtering and grouping
+- Statistical analysis
+- Data visualization
+- Trend identification
+- Critical interpretation of results
+- Exploratory Data Analysis (EDA)
