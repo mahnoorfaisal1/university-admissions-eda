@@ -19,11 +19,9 @@ This project explores...
 
 ### Which factors are most associated with admission outcomes?
 
-Analyzed and compared...
-
 ### Do students with more AP courses have higher admission rates?
 
-Calculated admission rates...
+### Is there a relationship between high school GPA and recommendation score?
 
 ## Key Findings
 
