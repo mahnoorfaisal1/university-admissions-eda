@@ -15,7 +15,6 @@ Dataset
 This project uses a synthetic university admissions dataset containing approximately 1 million student records.
 
 Dataset Source:
-Dataset Source:
 [Gen Z College Admission Dataset](https://www.kaggle.com/datasets/sharmajicoder/genn-z-college-admission-dataset)
 
 === Questions Explored ===
